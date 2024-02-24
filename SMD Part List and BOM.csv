@@ -1,0 +1,32 @@
+,From LCSC,,,,,,
+Order Qty.,LCSC Part Number,Manufacture Part Number,Manufacturer,Package,Description,RoHS,Unit Price
+6,C383211,LESD5D5.0CT1G,LRC,SOD-523,Zener Diode 5.6V 18.6V 5V Bi-Directional SOD-523  ESD Protection Devices ROHS,YES,0.0152
+2,C82544,1N5819HW-7-F,Diodes Incorporated,SOD-123,Diode 40V 450mV@1A 1A SOD-123  Schottky Barrier Diodes (SBD) ROHS,YES,0.0208
+2,C5378720,SK6812,OPSCO Optoelectronics,"SMD-4P,5.4x5mm","SMD-4P,5.4x5mm Light Emitting Diodes (LED) ROHS",YES,0.153
+4,C2912598,HoAR0805-1/8W-5.1KR-0.1%-TCR25,Milliohm,805,5k1 Resistor 125mW Ceramic resistor ±25ppm/℃ ±0.1% 5.1kΩ 0805  Chip Resistor - Surface Mount ROHS,YES,0.0506
+2,"C2849095 (Used these instead of the 75 and 110ohm resistors, but its flexible so long as it�s the value or greater)",PTFR0805B200RP9,Resistor.Today,805,200ohm Resistor 0.13W Thin Film Resistor ±25ppm/℃ ±0.1% 200Ω 0805  Chip Resistor - Surface Mount ROHS,YES,0.1403
+2,C2765186,TYPE-C 16PIN 2MD(073),SHOU HAN,SMD,USB-C Connector 5A 1 Surface Mount 16P Female -25℃~+85℃ Type-C SMD  USB Connectors ROHS,YES,0.0523
+,,,,,,,
+,From DigiKey,,,,,,
+,Digi-Key Part #,Manufacturer Part Number,Description,Backorder,Unit Price,,
+7,1276-6454-1-ND,CL21A106KAYNNNG,10uF/25V Capacitor CAP CER 10UF 25V X5R 0805,0,$0.07 ,,
+2,1276-1034-1-ND,CL10A105KO8NNNC,1uF/16V Capacitor CAP CER 1UF 16V X5R 0603,0,$0.01 ,,
+8,RNCP0603FTD10K0CT-ND,RNCP0603FTD10K0,10kohm Resistor RES 10K OHM 1% 1/8W 0603,0,$0.02 ,,
+10,1276-CL10B104KB8NNNLTR-ND ,CL10B104KB8NNNL,CAP CER 0.1UF 50V X7R 0603,0,$0.10 ,,
+2,4518-AMS1117-3.3TR-ND,AMS1117-3.3,"	
+IC LDO REG 3.3V 1A SOT223",0,$0.48 ,,
+2,399-C0603C220J5GAC7867TR-ND,C0603C220J5GAC7867,"	
+CAP CER 22PF 50V C0G/NP0 0603",0,$0.14 ,,
+4,CKN10504TR-ND,PTS810 SJG 250 SMTR LFS,SWITCH TACTILE SPST-NO 0.05A 16V,0,$0.55 ,,
+2,"	
+160-1646-2-ND",LTST-C190TBKT,"	
+BLUE RED CLEAR CHIP SMD",0,$0.35 ,,
+1,1965-ESP32-S3-WROOM-1U-N16R8TR-ND,ESP32-S3-WROOM-1U-N16R8,"	
+RF TXRX MOD BLUETOOTH U.FL SMD",0,$3.90 ,,
+1,"	
+1965-ESP32-C3-MINI-1-H4TR-ND","
+ESP32-C3-MINI-1-H4","	
+RF TXRX MODULE BT PCB TRACE SMD",0,$1.90 ,,
+,,,,,,,
+,"ALL OTHER COMPONENTS WERE PURCHASED VIA AMAZON. Remember, it's better to buy too many than too few.",,,,,,
+,(Links in the project BOM www.roboticworx.io),,,,,,
